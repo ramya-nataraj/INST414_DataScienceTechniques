@@ -1,0 +1,514 @@
+source,source_name,target,target_name,type
+0,Regulus Arcturus Black,1,Sirius Black,-
+0,Regulus Arcturus Black,25,Bellatrix Lestrange,-
+0,Regulus Arcturus Black,45,Lord Voldemort,-
+1,Sirius Black,0,Regulus Arcturus Black,-
+1,Sirius Black,11,Albus Dumbledore,+
+1,Sirius Black,21,Hermione Granger,+
+1,Sirius Black,25,Bellatrix Lestrange,-
+1,Sirius Black,31,Remus Lupin,+
+1,Sirius Black,33,Lucius Malfoy,-
+1,Sirius Black,34,Narcissa Malfoy,-
+1,Sirius Black,36,Minerva McGonagall,+
+1,Sirius Black,37,"Alastor ""Mad-Eye"" Moody",+
+1,Sirius Black,38,Peter Pettigrew,-
+1,Sirius Black,39,Harry Potter,+
+1,Sirius Black,40,James Potter,+
+1,Sirius Black,41,Lily Potter,+
+1,Sirius Black,45,Lord Voldemort,-
+1,Sirius Black,47,Severus Snape,-
+1,Sirius Black,48,Nymphadora Tonks,+
+1,Sirius Black,50,Arthur Weasley,+
+1,Sirius Black,53,Fred Weasley,+
+1,Sirius Black,54,George Weasley,+
+1,Sirius Black,55,Ginny Weasley,+
+1,Sirius Black,58,Ron Weasley,+
+2,Lavender Brown,21,Hermione Granger,-
+2,Lavender Brown,28,Neville Longbottom,+
+2,Lavender Brown,58,Ron Weasley,+
+3,Cho Chang,9,Cedric Diggory,+
+3,Cho Chang,16,Seamus Finnigan,+
+3,Cho Chang,21,Hermione Granger,+
+3,Cho Chang,28,Neville Longbottom,+
+3,Cho Chang,39,Harry Potter,+
+3,Cho Chang,45,Lord Voldemort,-
+3,Cho Chang,58,Ron Weasley,+
+4,Vincent Crabbe Sr.,0,Regulus Arcturus Black,+
+4,Vincent Crabbe Sr.,5,Vincent Crabbe,+
+4,Vincent Crabbe Sr.,6,"Bartemius ""Barty"" Crouch Sr.",+
+4,Vincent Crabbe Sr.,25,Bellatrix Lestrange,+
+4,Vincent Crabbe Sr.,33,Lucius Malfoy,+
+4,Vincent Crabbe Sr.,38,Peter Pettigrew,+
+4,Vincent Crabbe Sr.,45,Lord Voldemort,+
+4,Vincent Crabbe Sr.,47,Severus Snape,+
+5,Vincent Crabbe,4,Vincent Crabbe Sr.,+
+5,Vincent Crabbe,49,Dolores Janes Umbridge,+
+5,Vincent Crabbe,20,Gregory Goyle,+
+5,Vincent Crabbe,21,Hermione Granger,-
+5,Vincent Crabbe,32,Draco Malfoy,+
+5,Vincent Crabbe,39,Harry Potter,-
+5,Vincent Crabbe,58,Ron Weasley,-
+6,"Bartemius ""Barty"" Crouch Sr.",4,Vincent Crabbe Sr.,+
+6,"Bartemius ""Barty"" Crouch Sr.",7,"Bartemius ""Barty"" Crouch Jr.",-
+6,"Bartemius ""Barty"" Crouch Sr.",23,Igor Karkaroff,+
+6,"Bartemius ""Barty"" Crouch Sr.",57,Percy Weasley,+
+7,"Bartemius ""Barty"" Crouch Jr.",6,"Bartemius ""Barty"" Crouch Sr.",-
+7,"Bartemius ""Barty"" Crouch Jr.",21,Hermione Granger,-
+7,"Bartemius ""Barty"" Crouch Jr.",28,Neville Longbottom,+
+7,"Bartemius ""Barty"" Crouch Jr.",36,Minerva McGonagall,-
+7,"Bartemius ""Barty"" Crouch Jr.",37,"Alastor ""Mad-Eye"" Moody",-
+7,"Bartemius ""Barty"" Crouch Jr.",39,Harry Potter,-
+7,"Bartemius ""Barty"" Crouch Jr.",45,Lord Voldemort,+
+7,"Bartemius ""Barty"" Crouch Jr.",47,Severus Snape,-
+7,"Bartemius ""Barty"" Crouch Jr.",38,Peter Pettigrew,+
+8,Fleur Delacour,21,Hermione Granger,+
+8,Fleur Delacour,25,Bellatrix Lestrange,-
+8,Fleur Delacour,28,Neville Longbottom,+
+8,Fleur Delacour,37,"Alastor ""Mad-Eye"" Moody",+
+8,Fleur Delacour,39,Harry Potter,+
+8,Fleur Delacour,51,Bill Weasley,+
+8,Fleur Delacour,55,Ginny Weasley,+
+8,Fleur Delacour,56,Molly Weasley,+
+8,Fleur Delacour,58,Ron Weasley,+
+9,Cedric Diggory,3,Cho Chang,+
+9,Cedric Diggory,39,Harry Potter,+
+9,Cedric Diggory,45,Lord Voldemort,-
+10,Alberforth Dumbledore,11,Albus Dumbledore,+
+10,Alberforth Dumbledore,21,Hermione Granger,+
+10,Alberforth Dumbledore,39,Harry Potter,+
+10,Alberforth Dumbledore,58,Ron Weasley,+
+10,Alberforth Dumbledore,59,Dobby,+
+11,Albus Dumbledore,1,Sirius Black,+
+11,Albus Dumbledore,10,Alberforth Dumbledore,+
+11,Albus Dumbledore,13,Petunia Dursley,-
+11,Albus Dumbledore,14,Vernon Dursley,-
+11,Albus Dumbledore,21,Hermione Granger,+
+11,Albus Dumbledore,22,Rubeus Hagrid,+
+11,Albus Dumbledore,25,Bellatrix Lestrange,-
+11,Albus Dumbledore,31,Remus Lupin,+
+11,Albus Dumbledore,36,Minerva McGonagall,+
+11,Albus Dumbledore,36,Minerva McGonagall,+
+11,Albus Dumbledore,37,"Alastor ""Mad-Eye"" Moody",+
+11,Albus Dumbledore,38,Peter Pettigrew,-
+11,Albus Dumbledore,39,Harry Potter,+
+11,Albus Dumbledore,40,James Potter,+
+11,Albus Dumbledore,41,Lily Potter,+
+11,Albus Dumbledore,42,Quirinus Quirrell,-
+11,Albus Dumbledore,45,Lord Voldemort,-
+11,Albus Dumbledore,46,Rita Skeeter,-
+11,Albus Dumbledore,47,Severus Snape,+
+11,Albus Dumbledore,49,Dolores Janes Umbridge,-
+11,Albus Dumbledore,49,Dolores Janes Umbridge,-
+11,Albus Dumbledore,50,Arthur Weasley,+
+11,Albus Dumbledore,51,Bill Weasley,+
+11,Albus Dumbledore,52,Charlie Weasley,+
+11,Albus Dumbledore,53,Fred Weasley,+
+11,Albus Dumbledore,54,George Weasley,+
+11,Albus Dumbledore,55,Ginny Weasley,+
+11,Albus Dumbledore,56,Molly Weasley,+
+11,Albus Dumbledore,57,Percy Weasley,+
+11,Albus Dumbledore,58,Ron Weasley,+
+12,Dudley Dursley,12,Dudley Dursley,+
+12,Dudley Dursley,14,Vernon Dursley,+
+12,Dudley Dursley,39,Harry Potter,-
+12,Dudley Dursley,22,Rubeus Hagrid,-
+13,Petunia Dursley,11,Albus Dumbledore,-
+13,Petunia Dursley,12,Dudley Dursley,+
+13,Petunia Dursley,13,Petunia Dursley,+
+13,Petunia Dursley,39,Harry Potter,-
+13,Petunia Dursley,41,Lily Potter,-
+14,Vernon Dursley,11,Albus Dumbledore,-
+14,Vernon Dursley,12,Dudley Dursley,+
+14,Vernon Dursley,13,Petunia Dursley,+
+14,Vernon Dursley,39,Harry Potter,-
+15,Argus Filch,1,Sirius Black,-
+15,Argus Filch,11,Albus Dumbledore,+
+15,Argus Filch,22,Rubeus Hagrid,-
+15,Argus Filch,36,Minerva McGonagall,-
+15,Argus Filch,38,Peter Pettigrew,-
+15,Argus Filch,39,Harry Potter,-
+15,Argus Filch,40,James Potter,-
+15,Argus Filch,47,Severus Snape,+
+15,Argus Filch,49,Dolores Janes Umbridge,+
+15,Argus Filch,53,Fred Weasley,-
+15,Argus Filch,54,George Weasley,-
+16,Seamus Finnigan,2,Lavender Brown,+
+16,Seamus Finnigan,3,Cho Chang,+
+16,Seamus Finnigan,21,Hermione Granger,+
+16,Seamus Finnigan,28,Neville Longbottom,+
+16,Seamus Finnigan,29,Luna Lovegood,+
+16,Seamus Finnigan,39,Harry Potter,+
+16,Seamus Finnigan,55,Ginny Weasley,+
+16,Seamus Finnigan,58,Ron Weasley,+
+17,Nicolas Flamel,11,Albus Dumbledore,+
+18,Cornelius Fudge,11,Albus Dumbledore,-
+18,Cornelius Fudge,33,Lucius Malfoy,+
+18,Cornelius Fudge,39,Harry Potter,-
+18,Cornelius Fudge,49,Dolores Janes Umbridge,+
+18,Cornelius Fudge,50,Arthur Weasley,-
+18,Cornelius Fudge,57,Percy Weasley,+
+19,Goyle Sr.,4,Vincent Crabbe Sr.,+
+19,Goyle Sr.,20,Gregory Goyle,+
+19,Goyle Sr.,45,Lord Voldemort,+
+20,Gregory Goyle,19,Goyle Sr.,+
+20,Gregory Goyle,5,Vincent Crabbe,+
+20,Gregory Goyle,32,Draco Malfoy,+
+20,Gregory Goyle,39,Harry Potter,-
+20,Gregory Goyle,45,Lord Voldemort,+
+21,Hermione Granger,39,Harry Potter,+
+21,Hermione Granger,58,Ron Weasley,+
+21,Hermione Granger,54,George Weasley,+
+21,Hermione Granger,56,Molly Weasley,+
+21,Hermione Granger,47,Severus Snape,+
+21,Hermione Granger,29,Luna Lovegood,+
+21,Hermione Granger,28,Neville Longbottom,+
+21,Hermione Granger,45,Lord Voldemort,-
+21,Hermione Granger,38,Peter Pettigrew,-
+21,Hermione Granger,32,Draco Malfoy,-
+21,Hermione Granger,15,Argus Filch,-
+21,Hermione Granger,20,Gregory Goyle,-
+22,Rubeus Hagrid,45,Lord Voldemort,-
+22,Rubeus Hagrid,60,Fluffy,+
+22,Rubeus Hagrid,63,Aragog,+
+22,Rubeus Hagrid,64,Grawp,+
+22,Rubeus Hagrid,58,Ron Weasley,+
+22,Rubeus Hagrid,21,Hermione Granger,+
+22,Rubeus Hagrid,47,Severus Snape,+
+22,Rubeus Hagrid,39,Harry Potter,+
+22,Rubeus Hagrid,28,Neville Longbottom,+
+22,Rubeus Hagrid,35,Olympe Maxime,+
+22,Rubeus Hagrid,36,Minerva McGonagall,+
+22,Rubeus Hagrid,11,Albus Dumbledore,+
+23,Igor Karkaroff,45,Lord Voldemort,-
+23,Igor Karkaroff,24,Viktor Krum,+
+24,Viktor Krum,23,Igor Karkaroff,+
+24,Viktor Krum,39,Harry Potter,+
+24,Viktor Krum,8,Fleur Delacour,+
+24,Viktor Krum,9,Cedric Diggory,+
+24,Viktor Krum,21,Hermione Granger,+
+25,Bellatrix Lestrange,45,Lord Voldemort,+
+25,Bellatrix Lestrange,33,Lucius Malfoy,+
+25,Bellatrix Lestrange,34,Narcissa Malfoy,+
+25,Bellatrix Lestrange,1,Sirius Black,-
+25,Bellatrix Lestrange,39,Harry Potter,-
+25,Bellatrix Lestrange,48,Nymphadora Tonks,-
+25,Bellatrix Lestrange,56,Molly Weasley,-
+25,Bellatrix Lestrange,59,Dobby,-
+26,Alice Longbottom,27,Frank Longbottom,+
+26,Alice Longbottom,27,Frank Longbottom,+
+26,Alice Longbottom,28,Neville Longbottom,+
+27,Frank Longbottom,26,Alice Longbottom,+
+27,Frank Longbottom,45,Lord Voldemort,-
+27,Frank Longbottom,28,Neville Longbottom,+
+28,Neville Longbottom,39,Harry Potter,+
+28,Neville Longbottom,45,Lord Voldemort,-
+28,Neville Longbottom,21,Hermione Granger,+
+28,Neville Longbottom,58,Ron Weasley,+
+28,Neville Longbottom,29,Luna Lovegood,+
+28,Neville Longbottom,32,Draco Malfoy,-
+29,Luna Lovegood,28,Neville Longbottom,+
+29,Luna Lovegood,39,Harry Potter,+
+29,Luna Lovegood,21,Hermione Granger,+
+29,Luna Lovegood,58,Ron Weasley,+
+30,Xenophilius Lovegood,29,Luna Lovegood,+
+31,Remus Lupin,38,Peter Pettigrew,-
+31,Remus Lupin,45,Lord Voldemort,-
+31,Remus Lupin,40,James Potter,+
+31,Remus Lupin,1,Sirius Black,+
+31,Remus Lupin,48,Nymphadora Tonks,+
+31,Remus Lupin,39,Harry Potter,+
+31,Remus Lupin,36,Minerva McGonagall,+
+32,Draco Malfoy,5,Vincent Crabbe,+
+32,Draco Malfoy,20,Gregory Goyle,+
+32,Draco Malfoy,33,Lucius Malfoy,+
+32,Draco Malfoy,34,Narcissa Malfoy,+
+32,Draco Malfoy,39,Harry Potter,-
+32,Draco Malfoy,21,Hermione Granger,-
+32,Draco Malfoy,58,Ron Weasley,-
+33,Lucius Malfoy,32,Draco Malfoy,+
+33,Lucius Malfoy,34,Narcissa Malfoy,+
+33,Lucius Malfoy,45,Lord Voldemort,+
+33,Lucius Malfoy,39,Harry Potter,-
+33,Lucius Malfoy,59,Dobby,-
+34,Narcissa Malfoy,33,Lucius Malfoy,+
+34,Narcissa Malfoy,45,Lord Voldemort,+
+34,Narcissa Malfoy,25,Bellatrix Lestrange,+
+35,Olympe Maxime,22,Rubeus Hagrid,+
+35,Olympe Maxime,8,Fleur Delacour,+
+35,Olympe Maxime,11,Albus Dumbledore,+
+35,Olympe Maxime,23,Igor Karkaroff,+
+36,Minerva McGonagall,15,Argus Filch,+
+36,Minerva McGonagall,22,Rubeus Hagrid,+
+36,Minerva McGonagall,49,Dolores Janes Umbridge,-
+36,Minerva McGonagall,45,Lord Voldemort,-
+36,Minerva McGonagall,11,Albus Dumbledore,+
+36,Minerva McGonagall,39,Harry Potter,+
+39,Harry Potter,36,Minerva McGonagall,+
+36,Minerva McGonagall,21,Hermione Granger,+
+21,Hermione Granger,36,Minerva McGonagall,+
+36,Minerva McGonagall,58,Ron Weasley,+
+58,Ron Weasley,36,Minerva McGonagall,+
+36,Minerva McGonagall,45,Lord Voldemort,-
+45,Lord Voldemort,36,Minerva McGonagall,-
+36,Minerva McGonagall,11,Albus Dumbledore,+
+11,Albus Dumbledore,36,Minerva McGonagall,+
+37,"Alastor ""Mad-Eye"" Moody",39,Harry Potter,+
+37,"Alastor ""Mad-Eye"" Moody",50,Arthur Weasley,+
+37,"Alastor ""Mad-Eye"" Moody",56,Molly Weasley,+
+39,Harry Potter,37,"Alastor ""Mad-Eye"" Moody",+
+39,Harry Potter,45,Lord Voldemort,-
+37,"Alastor ""Mad-Eye"" Moody",21,Hermione Granger,+
+21,Hermione Granger,37,"Alastor ""Mad-Eye"" Moody",+
+37,"Alastor ""Mad-Eye"" Moody",21,Hermione Granger,+
+21,Hermione Granger,37,"Alastor ""Mad-Eye"" Moody",+
+37,"Alastor ""Mad-Eye"" Moody",7,"Bartemius ""Barty"" Crouch Jr.",-
+7,"Bartemius ""Barty"" Crouch Jr.",37,"Alastor ""Mad-Eye"" Moody",-
+37,"Alastor ""Mad-Eye"" Moody",11,Albus Dumbledore,+
+11,Albus Dumbledore,37,"Alastor ""Mad-Eye"" Moody",+
+37,"Alastor ""Mad-Eye"" Moody",45,Lord Voldemort,-
+45,Lord Voldemort,37,"Alastor ""Mad-Eye"" Moody",-
+38,Peter Pettigrew,1,Sirius Black,-
+1,Sirius Black,38,Peter Pettigrew,-
+38,Peter Pettigrew,40,James Potter,-
+40,James Potter,38,Peter Pettigrew,-
+38,Peter Pettigrew,41,Lily Potter,-
+41,Lily Potter,38,Peter Pettigrew,-
+41,Lily Potter,39,Harry Potter,+
+38,Peter Pettigrew,45,Lord Voldemort,+
+45,Lord Voldemort,38,Peter Pettigrew,+
+38,Peter Pettigrew,39,Harry Potter,-
+39,Harry Potter,38,Peter Pettigrew,-
+40,James Potter,39,Harry Potter,+
+39,Harry Potter,40,James Potter,+
+40,James Potter,31,Remus Lupin,+
+31,Remus Lupin,40,James Potter,+
+40,James Potter,1,Sirius Black,+
+1,Sirius Black,40,James Potter,+
+40,James Potter,38,Peter Pettigrew,-
+38,Peter Pettigrew,40,James Potter,-
+40,James Potter,45,Lord Voldemort,-
+45,Lord Voldemort,40,James Potter,-
+40,James Potter,41,Lily Potter,+
+41,Lily Potter,40,James Potter,+
+41,Lily Potter,45,Lord Voldemort,-
+45,Lord Voldemort,41,Lily Potter,-
+41,Lily Potter,47,Severus Snape,+
+47,Severus Snape,41,Lily Potter,+
+42,Quirinus Quirrell,39,Harry Potter,-
+39,Harry Potter,42,Quirinus Quirrell,-
+42,Quirinus Quirrell,21,Hermione Granger,-
+21,Hermione Granger,42,Quirinus Quirrell,-
+42,Quirinus Quirrell,21,Hermione Granger,-
+21,Hermione Granger,42,Quirinus Quirrell,-
+42,Quirinus Quirrell,11,Albus Dumbledore,-
+11,Albus Dumbledore,42,Quirinus Quirrell,-
+42,Quirinus Quirrell,45,Lord Voldemort,-
+45,Lord Voldemort,42,Quirinus Quirrell,-
+43,Tom Riddle Sr.,45,Lord Voldemort,-
+43,Tom Riddle Sr.,43,Tom Riddle Sr.,-
+43,Tom Riddle Sr.,44,Mary Riddle,+
+44,Mary Riddle,43,Tom Riddle Sr.,+
+44,Mary Riddle,45,Lord Voldemort,-
+43,Tom Riddle Sr.,45,Lord Voldemort,-
+45,Lord Voldemort,43,Tom Riddle Sr.,-
+46,Rita Skeeter,39,Harry Potter,-
+39,Harry Potter,46,Rita Skeeter,-
+46,Rita Skeeter,11,Albus Dumbledore,-
+11,Albus Dumbledore,46,Rita Skeeter,-
+47,Severus Snape,39,Harry Potter,+
+39,Harry Potter,47,Severus Snape,+
+47,Severus Snape,21,Hermione Granger,+
+21,Hermione Granger,47,Severus Snape,+
+47,Severus Snape,21,Hermione Granger,+
+21,Hermione Granger,47,Severus Snape,+
+42,Quirinus Quirrell,11,Albus Dumbledore,+
+11,Albus Dumbledore,42,Quirinus Quirrell,+
+47,Severus Snape,41,Lily Potter,+
+41,Lily Potter,47,Severus Snape,+
+47,Severus Snape,45,Lord Voldemort,-
+45,Lord Voldemort,47,Severus Snape,-
+48,Nymphadora Tonks,31,Remus Lupin,+
+48,Nymphadora Tonks,45,Lord Voldemort,-
+31,Remus Lupin,48,Nymphadora Tonks,+
+49,Dolores Janes Umbridge,39,Harry Potter,-
+39,Harry Potter,49,Dolores Janes Umbridge,-
+49,Dolores Janes Umbridge,21,Hermione Granger,-
+21,Hermione Granger,49,Dolores Janes Umbridge,-
+49,Dolores Janes Umbridge,21,Hermione Granger,-
+21,Hermione Granger,49,Dolores Janes Umbridge,-
+49,Dolores Janes Umbridge,11,Albus Dumbledore,-
+11,Albus Dumbledore,49,Dolores Janes Umbridge,-
+49,Dolores Janes Umbridge,18,Cornelius Fudge,+
+18,Cornelius Fudge,49,Dolores Janes Umbridge,+
+50,Arthur Weasley,21,Hermione Granger,+
+50,Arthur Weasley,1,Sirius Black,+
+50,Arthur Weasley,11,Albus Dumbledore,+
+50,Arthur Weasley,33,Lucius Malfoy,-
+50,Arthur Weasley,39,Harry Potter,+
+21,Hermione Granger,50,Arthur Weasley,+
+50,Arthur Weasley,51,Bill Weasley,+
+51,Bill Weasley,50,Arthur Weasley,+
+50,Arthur Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,50,Arthur Weasley,+
+50,Arthur Weasley,53,Fred Weasley,+
+53,Fred Weasley,50,Arthur Weasley,+
+50,Arthur Weasley,54,George Weasley,+
+54,George Weasley,50,Arthur Weasley,+
+50,Arthur Weasley,54,George Weasley,+
+54,George Weasley,50,Arthur Weasley,+
+50,Arthur Weasley,55,Ginny Weasley,+
+55,Ginny Weasley,50,Arthur Weasley,+
+50,Arthur Weasley,57,Percy Weasley,+
+57,Percy Weasley,50,Arthur Weasley,+
+51,Bill Weasley,39,Harry Potter,+
+51,Bill Weasley,45,Lord Voldemort,-
+51,Bill Weasley,21,Hermione Granger,+
+21,Hermione Granger,51,Bill Weasley,+
+50,Arthur Weasley,51,Bill Weasley,+
+51,Bill Weasley,50,Arthur Weasley,+
+51,Bill Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,51,Bill Weasley,+
+51,Bill Weasley,53,Fred Weasley,+
+53,Fred Weasley,51,Bill Weasley,+
+51,Bill Weasley,54,George Weasley,+
+54,George Weasley,51,Bill Weasley,+
+51,Bill Weasley,54,George Weasley,+
+54,George Weasley,51,Bill Weasley,+
+51,Bill Weasley,55,Ginny Weasley,+
+55,Ginny Weasley,51,Bill Weasley,+
+51,Bill Weasley,57,Percy Weasley,+
+57,Percy Weasley,51,Bill Weasley,+
+52,Charlie Weasley,21,Hermione Granger,+
+52,Charlie Weasley,39,Harry Potter,+
+21,Hermione Granger,52,Charlie Weasley,+
+50,Arthur Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,50,Arthur Weasley,+
+52,Charlie Weasley,53,Fred Weasley,+
+53,Fred Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,54,George Weasley,+
+54,George Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,54,George Weasley,+
+52,Charlie Weasley,45,Lord Voldemort,-
+54,George Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,55,Ginny Weasley,+
+55,Ginny Weasley,52,Charlie Weasley,+
+52,Charlie Weasley,57,Percy Weasley,+
+57,Percy Weasley,52,Charlie Weasley,+
+53,Fred Weasley,21,Hermione Granger,+
+53,Fred Weasley,31,Remus Lupin,+
+53,Fred Weasley,38,Peter Pettigrew,-
+53,Fred Weasley,39,Harry Potter,+
+53,Fred Weasley,45,Lord Voldemort,-
+53,Fred Weasley,47,Severus Snape,+
+53,Fred Weasley,50,Arthur Weasley,+
+53,Fred Weasley,51,Bill Weasley,+
+53,Fred Weasley,52,Charlie Weasley,+
+53,Fred Weasley,54,George Weasley,+
+53,Fred Weasley,55,Ginny Weasley,+
+53,Fred Weasley,56,Molly Weasley,+
+53,Fred Weasley,57,Percy Weasley,+
+53,Fred Weasley,58,Ron Weasley,+
+54,George Weasley,21,Hermione Granger,+
+54,George Weasley,31,Remus Lupin,+
+54,George Weasley,38,Peter Pettigrew,-
+54,George Weasley,39,Harry Potter,+
+54,George Weasley,45,Lord Voldemort,-
+54,George Weasley,47,Severus Snape,+
+54,George Weasley,50,Arthur Weasley,+
+54,George Weasley,51,Bill Weasley,+
+54,George Weasley,52,Charlie Weasley,+
+54,George Weasley,53,Fred Weasley,+
+54,George Weasley,55,Ginny Weasley,+
+54,George Weasley,56,Molly Weasley,+
+54,George Weasley,57,Percy Weasley,+
+54,George Weasley,58,Ron Weasley,+
+55,Ginny Weasley,21,Hermione Granger,+
+55,Ginny Weasley,31,Remus Lupin,+
+55,Ginny Weasley,38,Peter Pettigrew,-
+55,Ginny Weasley,39,Harry Potter,+
+55,Ginny Weasley,45,Lord Voldemort,-
+55,Ginny Weasley,47,Severus Snape,+
+55,Ginny Weasley,50,Arthur Weasley,+
+55,Ginny Weasley,51,Bill Weasley,+
+55,Ginny Weasley,52,Charlie Weasley,+
+55,Ginny Weasley,54,George Weasley,+
+55,Ginny Weasley,53,Fred Weasley,+
+55,Ginny Weasley,56,Molly Weasley,+
+55,Ginny Weasley,57,Percy Weasley,+
+55,Ginny Weasley,57,Percy Weasley,+
+55,Ginny Weasley,58,Ron Weasley,+
+56,Molly Weasley,1,Sirius Black,+
+56,Molly Weasley,11,Albus Dumbledore,+
+56,Molly Weasley,21,Hermione Granger,+
+56,Molly Weasley,33,Lucius Malfoy,-
+56,Molly Weasley,39,Harry Potter,+
+56,Molly Weasley,45,Lord Voldemort,-
+56,Molly Weasley,50,Arthur Weasley,+
+56,Molly Weasley,51,Bill Weasley,+
+56,Molly Weasley,52,Charlie Weasley,+
+56,Molly Weasley,53,Fred Weasley,+
+56,Molly Weasley,54,George Weasley,+
+56,Molly Weasley,55,Ginny Weasley,+
+56,Molly Weasley,57,Percy Weasley,+
+56,Molly Weasley,58,Ron Weasley,+
+57,Percy Weasley,50,Arthur Weasley,+
+57,Percy Weasley,51,Bill Weasley,+
+57,Percy Weasley,52,Charlie Weasley,+
+57,Percy Weasley,53,Fred Weasley,+
+57,Percy Weasley,54,George Weasley,+
+57,Percy Weasley,55,Ginny Weasley,+
+57,Percy Weasley,56,Molly Weasley,+
+57,Percy Weasley,58,Ron Weasley,+
+58,Ron Weasley,1,Sirius Black,+
+58,Ron Weasley,8,Fleur Delacour,+
+58,Ron Weasley,11,Albus Dumbledore,+
+58,Ron Weasley,15,Argus Filch,-
+58,Ron Weasley,16,Seamus Finnigan,+
+58,Ron Weasley,20,Gregory Goyle,-
+58,Ron Weasley,21,Hermione Granger,+
+58,Ron Weasley,22,Rubeus Hagrid,+
+58,Ron Weasley,25,Bellatrix Lestrange,-
+58,Ron Weasley,28,Neville Longbottom,+
+58,Ron Weasley,29,Luna Lovegood,+
+58,Ron Weasley,31,Remus Lupin,+
+58,Ron Weasley,32,Draco Malfoy,-
+58,Ron Weasley,33,Lucius Malfoy,-
+58,Ron Weasley,36,Minerva McGonagall,+
+58,Ron Weasley,37,"Alastor ""Mad-Eye"" Moody",+
+58,Ron Weasley,38,Peter Pettigrew,-
+58,Ron Weasley,39,Harry Potter,+
+58,Ron Weasley,45,Lord Voldemort,-
+58,Ron Weasley,47,Severus Snape,+
+58,Ron Weasley,49,Dolores Janes Umbridge,-
+58,Ron Weasley,50,Arthur Weasley,+
+58,Ron Weasley,51,Bill Weasley,+
+58,Ron Weasley,52,Charlie Weasley,+
+58,Ron Weasley,53,Fred Weasley,+
+58,Ron Weasley,54,George Weasley,+
+58,Ron Weasley,55,Ginny Weasley,+
+58,Ron Weasley,56,Molly Weasley,+
+58,Ron Weasley,57,Percy Weasley,+
+58,Ron Weasley,59,Dobby,+
+58,Ron Weasley,60,Fluffy,-
+58,Ron Weasley,63,Aragog,-
+58,Ron Weasley,64,Grawp,+
+59,Dobby,21,Hermione Granger,+
+59,Dobby,25,Bellatrix Lestrange,-
+59,Dobby,32,Draco Malfoy,-
+59,Dobby,33,Lucius Malfoy,-
+59,Dobby,39,Harry Potter,+
+59,Dobby,58,Ron Weasley,+
+60,Fluffy,21,Hermione Granger,-
+60,Fluffy,22,Rubeus Hagrid,+
+60,Fluffy,39,Harry Potter,-
+60,Fluffy,58,Ron Weasley,-
+61,Hedwig,39,Harry Potter,+
+62,Moaning Myrtle,39,Harry Potter,+
+63,Aragog,21,Hermione Granger,-
+63,Aragog,22,Rubeus Hagrid,+
+63,Aragog,39,Harry Potter,-
+63,Aragog,58,Ron Weasley,-
+64,Grawp,21,Hermione Granger,+
+64,Grawp,22,Rubeus Hagrid,+
+64,Grawp,39,Harry Potter,+
+63,Aragog,58,Ron Weasley,+

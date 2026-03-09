@@ -1,0 +1,3593 @@
+[
+ {
+   "source": 0,
+   "source_name": "Regulus Arcturus Black",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "-"
+ },
+ {
+   "source": 0,
+   "source_name": "Regulus Arcturus Black",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "-"
+ },
+ {
+   "source": 0,
+   "source_name": "Regulus Arcturus Black",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 0,
+   "target_name": "Regulus Arcturus Black",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 34,
+   "target_name": "Narcissa Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 48,
+   "target_name": "Nymphadora Tonks",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 2,
+   "source_name": "Lavender Brown",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 2,
+   "source_name": "Lavender Brown",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 2,
+   "source_name": "Lavender Brown",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 9,
+   "target_name": "Cedric Diggory",
+   "type": "+"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 16,
+   "target_name": "Seamus Finnigan",
+   "type": "+"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 3,
+   "source_name": "Cho Chang",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 0,
+   "target_name": "Regulus Arcturus Black",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 5,
+   "target_name": "Vincent Crabbe",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 6,
+   "target_name": "Bartemius \"Barty\" Crouch Sr.",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 4,
+   "source_name": "Vincent Crabbe Sr.",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 4,
+   "target_name": "Vincent Crabbe Sr.",
+   "type": "+"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "+"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 20,
+   "target_name": "Gregory Goyle",
+   "type": "+"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 5,
+   "source_name": "Vincent Crabbe",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "-"
+ },
+ {
+   "source": 6,
+   "source_name": "Bartemius \"Barty\" Crouch Sr.",
+   "target": 4,
+   "target_name": "Vincent Crabbe Sr.",
+   "type": "+"
+ },
+ {
+   "source": 6,
+   "source_name": "Bartemius \"Barty\" Crouch Sr.",
+   "target": 7,
+   "target_name": "Bartemius \"Barty\" Crouch Jr.",
+   "type": "-"
+ },
+ {
+   "source": 6,
+   "source_name": "Bartemius \"Barty\" Crouch Sr.",
+   "target": 23,
+   "target_name": "Igor Karkaroff",
+   "type": "+"
+ },
+ {
+   "source": 6,
+   "source_name": "Bartemius \"Barty\" Crouch Sr.",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 6,
+   "target_name": "Bartemius \"Barty\" Crouch Sr.",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "-"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 8,
+   "source_name": "Fleur Delacour",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 9,
+   "source_name": "Cedric Diggory",
+   "target": 3,
+   "target_name": "Cho Chang",
+   "type": "+"
+ },
+ {
+   "source": 9,
+   "source_name": "Cedric Diggory",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 9,
+   "source_name": "Cedric Diggory",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 10,
+   "source_name": "Alberforth Dumbledore",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 10,
+   "source_name": "Alberforth Dumbledore",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 10,
+   "source_name": "Alberforth Dumbledore",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 10,
+   "source_name": "Alberforth Dumbledore",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 10,
+   "source_name": "Alberforth Dumbledore",
+   "target": 59,
+   "target_name": "Dobby",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 10,
+   "target_name": "Alberforth Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 13,
+   "target_name": "Petunia Dursley",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 14,
+   "target_name": "Vernon Dursley",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 46,
+   "target_name": "Rita Skeeter",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 12,
+   "source_name": "Dudley Dursley",
+   "target": 12,
+   "target_name": "Dudley Dursley",
+   "type": "+"
+ },
+ {
+   "source": 12,
+   "source_name": "Dudley Dursley",
+   "target": 14,
+   "target_name": "Vernon Dursley",
+   "type": "+"
+ },
+ {
+   "source": 12,
+   "source_name": "Dudley Dursley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 12,
+   "source_name": "Dudley Dursley",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "-"
+ },
+ {
+   "source": 13,
+   "source_name": "Petunia Dursley",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "-"
+ },
+ {
+   "source": 13,
+   "source_name": "Petunia Dursley",
+   "target": 12,
+   "target_name": "Dudley Dursley",
+   "type": "+"
+ },
+ {
+   "source": 13,
+   "source_name": "Petunia Dursley",
+   "target": 13,
+   "target_name": "Petunia Dursley",
+   "type": "+"
+ },
+ {
+   "source": 13,
+   "source_name": "Petunia Dursley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 13,
+   "source_name": "Petunia Dursley",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "-"
+ },
+ {
+   "source": 14,
+   "source_name": "Vernon Dursley",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "-"
+ },
+ {
+   "source": 14,
+   "source_name": "Vernon Dursley",
+   "target": 12,
+   "target_name": "Dudley Dursley",
+   "type": "+"
+ },
+ {
+   "source": 14,
+   "source_name": "Vernon Dursley",
+   "target": 13,
+   "target_name": "Petunia Dursley",
+   "type": "+"
+ },
+ {
+   "source": 14,
+   "source_name": "Vernon Dursley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "+"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "-"
+ },
+ {
+   "source": 15,
+   "source_name": "Argus Filch",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "-"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 2,
+   "target_name": "Lavender Brown",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 3,
+   "target_name": "Cho Chang",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 29,
+   "target_name": "Luna Lovegood",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 16,
+   "source_name": "Seamus Finnigan",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 17,
+   "source_name": "Nicolas Flamel",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "-"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "+"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "-"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 19,
+   "source_name": "Goyle Sr.",
+   "target": 4,
+   "target_name": "Vincent Crabbe Sr.",
+   "type": "+"
+ },
+ {
+   "source": 19,
+   "source_name": "Goyle Sr.",
+   "target": 20,
+   "target_name": "Gregory Goyle",
+   "type": "+"
+ },
+ {
+   "source": 19,
+   "source_name": "Goyle Sr.",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 20,
+   "source_name": "Gregory Goyle",
+   "target": 19,
+   "target_name": "Goyle Sr.",
+   "type": "+"
+ },
+ {
+   "source": 20,
+   "source_name": "Gregory Goyle",
+   "target": 5,
+   "target_name": "Vincent Crabbe",
+   "type": "+"
+ },
+ {
+   "source": 20,
+   "source_name": "Gregory Goyle",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 20,
+   "source_name": "Gregory Goyle",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 20,
+   "source_name": "Gregory Goyle",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 29,
+   "target_name": "Luna Lovegood",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 15,
+   "target_name": "Argus Filch",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 20,
+   "target_name": "Gregory Goyle",
+   "type": "-"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 60,
+   "target_name": "Fluffy",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 63,
+   "target_name": "Aragog",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 64,
+   "target_name": "Grawp",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 35,
+   "target_name": "Olympe Maxime",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 22,
+   "source_name": "Rubeus Hagrid",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 23,
+   "source_name": "Igor Karkaroff",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 23,
+   "source_name": "Igor Karkaroff",
+   "target": 24,
+   "target_name": "Viktor Krum",
+   "type": "+"
+ },
+ {
+   "source": 24,
+   "source_name": "Viktor Krum",
+   "target": 23,
+   "target_name": "Igor Karkaroff",
+   "type": "+"
+ },
+ {
+   "source": 24,
+   "source_name": "Viktor Krum",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 24,
+   "source_name": "Viktor Krum",
+   "target": 8,
+   "target_name": "Fleur Delacour",
+   "type": "+"
+ },
+ {
+   "source": 24,
+   "source_name": "Viktor Krum",
+   "target": 9,
+   "target_name": "Cedric Diggory",
+   "type": "+"
+ },
+ {
+   "source": 24,
+   "source_name": "Viktor Krum",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 34,
+   "target_name": "Narcissa Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "-"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 48,
+   "target_name": "Nymphadora Tonks",
+   "type": "-"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "-"
+ },
+ {
+   "source": 25,
+   "source_name": "Bellatrix Lestrange",
+   "target": 59,
+   "target_name": "Dobby",
+   "type": "-"
+ },
+ {
+   "source": 26,
+   "source_name": "Alice Longbottom",
+   "target": 27,
+   "target_name": "Frank Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 26,
+   "source_name": "Alice Longbottom",
+   "target": 27,
+   "target_name": "Frank Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 26,
+   "source_name": "Alice Longbottom",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 27,
+   "source_name": "Frank Longbottom",
+   "target": 26,
+   "target_name": "Alice Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 27,
+   "source_name": "Frank Longbottom",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 27,
+   "source_name": "Frank Longbottom",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 28,
+   "source_name": "Neville Longbottom",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 28,
+   "source_name": "Neville Longbottom",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 28,
+   "source_name": "Neville Longbottom",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 28,
+   "source_name": "Neville Longbottom",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 28,
+   "source_name": "Neville Longbottom",
+   "target": 29,
+   "target_name": "Luna Lovegood",
+   "type": "+"
+ },
+ {
+   "source": 28,
+   "source_name": "Neville Longbottom",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 29,
+   "source_name": "Luna Lovegood",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 29,
+   "source_name": "Luna Lovegood",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 29,
+   "source_name": "Luna Lovegood",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 29,
+   "source_name": "Luna Lovegood",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 30,
+   "source_name": "Xenophilius Lovegood",
+   "target": 29,
+   "target_name": "Luna Lovegood",
+   "type": "+"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "+"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 48,
+   "target_name": "Nymphadora Tonks",
+   "type": "+"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 5,
+   "target_name": "Vincent Crabbe",
+   "type": "+"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 20,
+   "target_name": "Gregory Goyle",
+   "type": "+"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 34,
+   "target_name": "Narcissa Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 32,
+   "source_name": "Draco Malfoy",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "-"
+ },
+ {
+   "source": 33,
+   "source_name": "Lucius Malfoy",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 33,
+   "source_name": "Lucius Malfoy",
+   "target": 34,
+   "target_name": "Narcissa Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 33,
+   "source_name": "Lucius Malfoy",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 33,
+   "source_name": "Lucius Malfoy",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 33,
+   "source_name": "Lucius Malfoy",
+   "target": 59,
+   "target_name": "Dobby",
+   "type": "-"
+ },
+ {
+   "source": 34,
+   "source_name": "Narcissa Malfoy",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "+"
+ },
+ {
+   "source": 34,
+   "source_name": "Narcissa Malfoy",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 34,
+   "source_name": "Narcissa Malfoy",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "+"
+ },
+ {
+   "source": 35,
+   "source_name": "Olympe Maxime",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 35,
+   "source_name": "Olympe Maxime",
+   "target": 8,
+   "target_name": "Fleur Delacour",
+   "type": "+"
+ },
+ {
+   "source": 35,
+   "source_name": "Olympe Maxime",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 35,
+   "source_name": "Olympe Maxime",
+   "target": 23,
+   "target_name": "Igor Karkaroff",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 15,
+   "target_name": "Argus Filch",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "-"
+ },
+ {
+   "source": 36,
+   "source_name": "Minerva McGonagall",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 7,
+   "target_name": "Bartemius \"Barty\" Crouch Jr.",
+   "type": "-"
+ },
+ {
+   "source": 7,
+   "source_name": "Bartemius \"Barty\" Crouch Jr.",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "-"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 37,
+   "source_name": "Alastor \"Mad-Eye\" Moody",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "-"
+ },
+ {
+   "source": 38,
+   "source_name": "Peter Pettigrew",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "-"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 38,
+   "source_name": "Peter Pettigrew",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "-"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 38,
+   "source_name": "Peter Pettigrew",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "-"
+ },
+ {
+   "source": 41,
+   "source_name": "Lily Potter",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 41,
+   "source_name": "Lily Potter",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 38,
+   "source_name": "Peter Pettigrew",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "+"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "+"
+ },
+ {
+   "source": 38,
+   "source_name": "Peter Pettigrew",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "+"
+ },
+ {
+   "source": 1,
+   "source_name": "Sirius Black",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 38,
+   "source_name": "Peter Pettigrew",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "-"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "-"
+ },
+ {
+   "source": 40,
+   "source_name": "James Potter",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "+"
+ },
+ {
+   "source": 41,
+   "source_name": "Lily Potter",
+   "target": 40,
+   "target_name": "James Potter",
+   "type": "+"
+ },
+ {
+   "source": 41,
+   "source_name": "Lily Potter",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "-"
+ },
+ {
+   "source": 41,
+   "source_name": "Lily Potter",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 47,
+   "source_name": "Severus Snape",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "+"
+ },
+ {
+   "source": 42,
+   "source_name": "Quirinus Quirrell",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "-"
+ },
+ {
+   "source": 42,
+   "source_name": "Quirinus Quirrell",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "-"
+ },
+ {
+   "source": 42,
+   "source_name": "Quirinus Quirrell",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "-"
+ },
+ {
+   "source": 42,
+   "source_name": "Quirinus Quirrell",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "-"
+ },
+ {
+   "source": 42,
+   "source_name": "Quirinus Quirrell",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "-"
+ },
+ {
+   "source": 43,
+   "source_name": "Tom Riddle Sr.",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 43,
+   "source_name": "Tom Riddle Sr.",
+   "target": 43,
+   "target_name": "Tom Riddle Sr.",
+   "type": "-"
+ },
+ {
+   "source": 43,
+   "source_name": "Tom Riddle Sr.",
+   "target": 44,
+   "target_name": "Mary Riddle",
+   "type": "+"
+ },
+ {
+   "source": 44,
+   "source_name": "Mary Riddle",
+   "target": 43,
+   "target_name": "Tom Riddle Sr.",
+   "type": "+"
+ },
+ {
+   "source": 44,
+   "source_name": "Mary Riddle",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 43,
+   "source_name": "Tom Riddle Sr.",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 43,
+   "target_name": "Tom Riddle Sr.",
+   "type": "-"
+ },
+ {
+   "source": 46,
+   "source_name": "Rita Skeeter",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 46,
+   "target_name": "Rita Skeeter",
+   "type": "-"
+ },
+ {
+   "source": 46,
+   "source_name": "Rita Skeeter",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 46,
+   "target_name": "Rita Skeeter",
+   "type": "-"
+ },
+ {
+   "source": 47,
+   "source_name": "Severus Snape",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 47,
+   "source_name": "Severus Snape",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 47,
+   "source_name": "Severus Snape",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 42,
+   "source_name": "Quirinus Quirrell",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 42,
+   "target_name": "Quirinus Quirrell",
+   "type": "+"
+ },
+ {
+   "source": 47,
+   "source_name": "Severus Snape",
+   "target": 41,
+   "target_name": "Lily Potter",
+   "type": "+"
+ },
+ {
+   "source": 41,
+   "source_name": "Lily Potter",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 47,
+   "source_name": "Severus Snape",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 45,
+   "source_name": "Lord Voldemort",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "-"
+ },
+ {
+   "source": 48,
+   "source_name": "Nymphadora Tonks",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 48,
+   "source_name": "Nymphadora Tonks",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 31,
+   "source_name": "Remus Lupin",
+   "target": 48,
+   "target_name": "Nymphadora Tonks",
+   "type": "+"
+ },
+ {
+   "source": 49,
+   "source_name": "Dolores Janes Umbridge",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 39,
+   "source_name": "Harry Potter",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 49,
+   "source_name": "Dolores Janes Umbridge",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 49,
+   "source_name": "Dolores Janes Umbridge",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 49,
+   "source_name": "Dolores Janes Umbridge",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "-"
+ },
+ {
+   "source": 11,
+   "source_name": "Albus Dumbledore",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 49,
+   "source_name": "Dolores Janes Umbridge",
+   "target": 18,
+   "target_name": "Cornelius Fudge",
+   "type": "+"
+ },
+ {
+   "source": 18,
+   "source_name": "Cornelius Fudge",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 51,
+   "source_name": "Bill Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 21,
+   "source_name": "Hermione Granger",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 50,
+   "source_name": "Arthur Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 52,
+   "source_name": "Charlie Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 53,
+   "source_name": "Fred Weasley",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 54,
+   "source_name": "George Weasley",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 55,
+   "source_name": "Ginny Weasley",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 56,
+   "source_name": "Molly Weasley",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 57,
+   "source_name": "Percy Weasley",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 1,
+   "target_name": "Sirius Black",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 8,
+   "target_name": "Fleur Delacour",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 11,
+   "target_name": "Albus Dumbledore",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 15,
+   "target_name": "Argus Filch",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 16,
+   "target_name": "Seamus Finnigan",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 20,
+   "target_name": "Gregory Goyle",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 28,
+   "target_name": "Neville Longbottom",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 29,
+   "target_name": "Luna Lovegood",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 31,
+   "target_name": "Remus Lupin",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 36,
+   "target_name": "Minerva McGonagall",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 37,
+   "target_name": "Alastor \"Mad-Eye\" Moody",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 38,
+   "target_name": "Peter Pettigrew",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 45,
+   "target_name": "Lord Voldemort",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 47,
+   "target_name": "Severus Snape",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 49,
+   "target_name": "Dolores Janes Umbridge",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 50,
+   "target_name": "Arthur Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 51,
+   "target_name": "Bill Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 52,
+   "target_name": "Charlie Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 53,
+   "target_name": "Fred Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 54,
+   "target_name": "George Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 55,
+   "target_name": "Ginny Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 56,
+   "target_name": "Molly Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 57,
+   "target_name": "Percy Weasley",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 59,
+   "target_name": "Dobby",
+   "type": "+"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 60,
+   "target_name": "Fluffy",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 63,
+   "target_name": "Aragog",
+   "type": "-"
+ },
+ {
+   "source": 58,
+   "source_name": "Ron Weasley",
+   "target": 64,
+   "target_name": "Grawp",
+   "type": "+"
+ },
+ {
+   "source": 59,
+   "source_name": "Dobby",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 59,
+   "source_name": "Dobby",
+   "target": 25,
+   "target_name": "Bellatrix Lestrange",
+   "type": "-"
+ },
+ {
+   "source": 59,
+   "source_name": "Dobby",
+   "target": 32,
+   "target_name": "Draco Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 59,
+   "source_name": "Dobby",
+   "target": 33,
+   "target_name": "Lucius Malfoy",
+   "type": "-"
+ },
+ {
+   "source": 59,
+   "source_name": "Dobby",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 59,
+   "source_name": "Dobby",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ },
+ {
+   "source": 60,
+   "source_name": "Fluffy",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 60,
+   "source_name": "Fluffy",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 60,
+   "source_name": "Fluffy",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 60,
+   "source_name": "Fluffy",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "-"
+ },
+ {
+   "source": 61,
+   "source_name": "Hedwig",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 62,
+   "source_name": "Moaning Myrtle",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 63,
+   "source_name": "Aragog",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "-"
+ },
+ {
+   "source": 63,
+   "source_name": "Aragog",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 63,
+   "source_name": "Aragog",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "-"
+ },
+ {
+   "source": 63,
+   "source_name": "Aragog",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "-"
+ },
+ {
+   "source": 64,
+   "source_name": "Grawp",
+   "target": 21,
+   "target_name": "Hermione Granger",
+   "type": "+"
+ },
+ {
+   "source": 64,
+   "source_name": "Grawp",
+   "target": 22,
+   "target_name": "Rubeus Hagrid",
+   "type": "+"
+ },
+ {
+   "source": 64,
+   "source_name": "Grawp",
+   "target": 39,
+   "target_name": "Harry Potter",
+   "type": "+"
+ },
+ {
+   "source": 63,
+   "source_name": "Aragog",
+   "target": 58,
+   "target_name": "Ron Weasley",
+   "type": "+"
+ }
+]
