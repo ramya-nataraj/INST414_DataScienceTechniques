@@ -84,10 +84,9 @@ plt.show()
 
 # Extending with Module 4 - Cluster Analysis
 removedCols = ['Hotel_Rating', 'Average_Room_Price_USD', 'Tourism_Revenue_USD', 
-               'Employment_in_Tourism', 'Contribution_to_GDP_Percent', 
-               'Airport_Passenger_Traffic', 'Transport_Infrastructure_Quality', 
-               'Carbon_Footprint_kg', 'Waste_Management_Rating', 
-               'Number_of_Online_Reviews']
+               'Employment_in_Tourism','Airport_Passenger_Traffic', 
+               'Transport_Infrastructure_Quality', 'Carbon_Footprint_kg', 
+               'Waste_Management_Rating', 'Number_of_Online_Reviews']
 df.drop(columns= removedCols, inplace=True)
 
 print(f"Successfully removed columns {removedCols}\n: {df.head()}")
