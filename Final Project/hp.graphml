@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="node_type" attr.type="string"/>
+<key id="d1" for="node" attr.name="cluster" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Country_Italy">
+  <data key="d0">Italy</data>
+  <data key="d1">0</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Purpose_Cultural">
+  <data key="d0">Cultural</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Country_India">
+  <data key="d0">India</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Purpose_Religious">
+  <data key="d0">Religious</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Country_Japan">
+  <data key="d0">Japan</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Purpose_Leisure">
+  <data key="d0">Leisure</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Country_United Kingdom">
+  <data key="d0">United Kingdom</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Purpose_Educational">
+  <data key="d0">Educational</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Country_Egypt">
+  <data key="d0">Egypt</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Brazil">
+  <data key="d0">Brazil</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_United Arab Emirates">
+  <data key="d0">United Arab Emirates</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_France">
+  <data key="d0">France</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Purpose_Family Visit">
+  <data key="d0">Family Visit</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Country_Turkey">
+  <data key="d0">Turkey</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Greece">
+  <data key="d0">Greece</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Germany">
+  <data key="d0">Germany</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_United States">
+  <data key="d0">United States</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Purpose_Medical">
+  <data key="d0">Medical</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Purpose_Business">
+  <data key="d0">Business</data>
+  <data key="d1">Target Node</data>
+  <data key="d2">Purpose</data>
+</node>
+<node id="Country_Spain">
+  <data key="d0">Spain</data>
+  <data key="d1">2</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_China">
+  <data key="d0">China</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Thailand">
+  <data key="d0">Thailand</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Mexico">
+  <data key="d0">Mexico</data>
+  <data key="d1">3</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Canada">
+  <data key="d0">Canada</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Australia">
+  <data key="d0">Australia</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_South Africa">
+  <data key="d0">South Africa</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<node id="Country_Singapore">
+  <data key="d0">Singapore</data>
+  <data key="d1">1</data>
+  <data key="d2">Country</data>
+</node>
+<edge source="Country_Italy" target="Purpose_Cultural">
+  <data key="d3">4514.26</data>
+</edge>
+<edge source="Country_Italy" target="Purpose_Religious">
+  <data key="d3">4634.36</data>
+</edge>
+<edge source="Country_Italy" target="Purpose_Business">
+  <data key="d3">637.06</data>
+</edge>
+<edge source="Country_Italy" target="Purpose_Educational">
+  <data key="d3">4454.46</data>
+</edge>
+<edge source="Country_Italy" target="Purpose_Family Visit">
+  <data key="d3">2028.62</data>
+</edge>
+<edge source="Country_Italy" target="Purpose_Medical">
+  <data key="d3">2780.77</data>
+</edge>
+<edge source="Country_Italy" target="Purpose_Leisure">
+  <data key="d3">4095.27</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Egypt">
+  <data key="d3">3946.23</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Turkey">
+  <data key="d3">3224.67</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_United States">
+  <data key="d3">784.35</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Thailand">
+  <data key="d3">2689.17</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_France">
+  <data key="d3">730.69</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Singapore">
+  <data key="d3">4019.77</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_China">
+  <data key="d3">3018.73</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Mexico">
+  <data key="d3">3468.61</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Germany">
+  <data key="d3">4712.73</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Canada">
+  <data key="d3">1861.8</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_South Africa">
+  <data key="d3">1185.03</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_United Kingdom">
+  <data key="d3">2610.68</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Japan">
+  <data key="d3">1451.44</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_India">
+  <data key="d3">4844.83</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Spain">
+  <data key="d3">1448.17</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Greece">
+  <data key="d3">2935.57</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Brazil">
+  <data key="d3">3647.9</data>
+</edge>
+<edge source="Purpose_Cultural" target="Country_Australia">
+  <data key="d3">2977.45</data>
+</edge>
+<edge source="Country_India" target="Purpose_Religious">
+  <data key="d3">1560.05</data>
+</edge>
+<edge source="Country_India" target="Purpose_Family Visit">
+  <data key="d3">3556.27</data>
+</edge>
+<edge source="Country_India" target="Purpose_Educational">
+  <data key="d3">2736.03</data>
+</edge>
+<edge source="Country_India" target="Purpose_Leisure">
+  <data key="d3">1398.51</data>
+</edge>
+<edge source="Country_India" target="Purpose_Medical">
+  <data key="d3">3661.83</data>
+</edge>
+<edge source="Country_India" target="Purpose_Business">
+  <data key="d3">4011.57</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Japan">
+  <data key="d3">3783.23</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Brazil">
+  <data key="d3">784.64</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Spain">
+  <data key="d3">616.53</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Egypt">
+  <data key="d3">2051.46</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_China">
+  <data key="d3">3320.75</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Canada">
+  <data key="d3">4348.43</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Germany">
+  <data key="d3">3674.1</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_United States">
+  <data key="d3">911.09</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_United Arab Emirates">
+  <data key="d3">825.75</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Thailand">
+  <data key="d3">781.0</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Mexico">
+  <data key="d3">3436.14</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_United Kingdom">
+  <data key="d3">2546.33</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Australia">
+  <data key="d3">2056.36</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Turkey">
+  <data key="d3">3183.77</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Singapore">
+  <data key="d3">4181.66</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_Greece">
+  <data key="d3">3443.35</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_South Africa">
+  <data key="d3">3242.78</data>
+</edge>
+<edge source="Purpose_Religious" target="Country_France">
+  <data key="d3">2178.5</data>
+</edge>
+<edge source="Country_Japan" target="Purpose_Leisure">
+  <data key="d3">3290.01</data>
+</edge>
+<edge source="Country_Japan" target="Purpose_Family Visit">
+  <data key="d3">1481.93</data>
+</edge>
+<edge source="Country_Japan" target="Purpose_Medical">
+  <data key="d3">3425.51</data>
+</edge>
+<edge source="Country_Japan" target="Purpose_Educational">
+  <data key="d3">3295.99</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_France">
+  <data key="d3">4983.79</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Greece">
+  <data key="d3">4592.5</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Spain">
+  <data key="d3">1089.86</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Mexico">
+  <data key="d3">4324.29</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Thailand">
+  <data key="d3">732.18</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Germany">
+  <data key="d3">4195.67</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_South Africa">
+  <data key="d3">522.85</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Turkey">
+  <data key="d3">1348.25</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Canada">
+  <data key="d3">2143.53</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_China">
+  <data key="d3">4061.13</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Brazil">
+  <data key="d3">3395.16</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Egypt">
+  <data key="d3">755.97</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_United States">
+  <data key="d3">3692.22</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_United Arab Emirates">
+  <data key="d3">1820.09</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Australia">
+  <data key="d3">4627.49</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_United Kingdom">
+  <data key="d3">2701.52</data>
+</edge>
+<edge source="Purpose_Leisure" target="Country_Singapore">
+  <data key="d3">3094.2</data>
+</edge>
+<edge source="Country_United Kingdom" target="Purpose_Educational">
+  <data key="d3">973.49</data>
+</edge>
+<edge source="Country_United Kingdom" target="Purpose_Family Visit">
+  <data key="d3">2160.44</data>
+</edge>
+<edge source="Country_United Kingdom" target="Purpose_Business">
+  <data key="d3">3249.61</data>
+</edge>
+<edge source="Country_United Kingdom" target="Purpose_Medical">
+  <data key="d3">2354.08</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_United Arab Emirates">
+  <data key="d3">1144.23</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Turkey">
+  <data key="d3">4426.34</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Greece">
+  <data key="d3">4395.4</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Germany">
+  <data key="d3">1095.82</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Brazil">
+  <data key="d3">3534.32</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Canada">
+  <data key="d3">4376.51</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Mexico">
+  <data key="d3">1302.68</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Singapore">
+  <data key="d3">2282.25</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Thailand">
+  <data key="d3">4449.87</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Spain">
+  <data key="d3">4768.34</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Egypt">
+  <data key="d3">4829.96</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_United States">
+  <data key="d3">4746.66</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_France">
+  <data key="d3">897.79</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_South Africa">
+  <data key="d3">3809.59</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_China">
+  <data key="d3">4538.9</data>
+</edge>
+<edge source="Purpose_Educational" target="Country_Australia">
+  <data key="d3">1398.33</data>
+</edge>
+<edge source="Country_Egypt" target="Purpose_Business">
+  <data key="d3">4700.55</data>
+</edge>
+<edge source="Country_Egypt" target="Purpose_Family Visit">
+  <data key="d3">2510.53</data>
+</edge>
+<edge source="Country_Egypt" target="Purpose_Medical">
+  <data key="d3">4012.12</data>
+</edge>
+<edge source="Country_Brazil" target="Purpose_Medical">
+  <data key="d3">4776.38</data>
+</edge>
+<edge source="Country_Brazil" target="Purpose_Family Visit">
+  <data key="d3">3768.37</data>
+</edge>
+<edge source="Country_Brazil" target="Purpose_Business">
+  <data key="d3">4288.93</data>
+</edge>
+<edge source="Country_United Arab Emirates" target="Purpose_Medical">
+  <data key="d3">3213.68</data>
+</edge>
+<edge source="Country_United Arab Emirates" target="Purpose_Business">
+  <data key="d3">4963.83</data>
+</edge>
+<edge source="Country_France" target="Purpose_Business">
+  <data key="d3">1524.87</data>
+</edge>
+<edge source="Country_France" target="Purpose_Family Visit">
+  <data key="d3">2947.04</data>
+</edge>
+<edge source="Country_France" target="Purpose_Medical">
+  <data key="d3">539.5</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_United States">
+  <data key="d3">1677.52</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Mexico">
+  <data key="d3">4274.84</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Germany">
+  <data key="d3">4626.85</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Turkey">
+  <data key="d3">4975.67</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_China">
+  <data key="d3">1862.45</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Canada">
+  <data key="d3">4297.97</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Spain">
+  <data key="d3">1192.64</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Greece">
+  <data key="d3">2151.33</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_South Africa">
+  <data key="d3">2890.4</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Singapore">
+  <data key="d3">3828.12</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Thailand">
+  <data key="d3">549.85</data>
+</edge>
+<edge source="Purpose_Family Visit" target="Country_Australia">
+  <data key="d3">598.92</data>
+</edge>
+<edge source="Country_Turkey" target="Purpose_Business">
+  <data key="d3">3829.94</data>
+</edge>
+<edge source="Country_Turkey" target="Purpose_Medical">
+  <data key="d3">4901.28</data>
+</edge>
+<edge source="Country_Greece" target="Purpose_Medical">
+  <data key="d3">4603.18</data>
+</edge>
+<edge source="Country_Greece" target="Purpose_Business">
+  <data key="d3">733.04</data>
+</edge>
+<edge source="Country_Germany" target="Purpose_Business">
+  <data key="d3">4099.35</data>
+</edge>
+<edge source="Country_Germany" target="Purpose_Medical">
+  <data key="d3">1635.81</data>
+</edge>
+<edge source="Country_United States" target="Purpose_Medical">
+  <data key="d3">4355.76</data>
+</edge>
+<edge source="Country_United States" target="Purpose_Business">
+  <data key="d3">3029.5</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_South Africa">
+  <data key="d3">2223.76</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_Thailand">
+  <data key="d3">1803.78</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_Spain">
+  <data key="d3">4379.95</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_China">
+  <data key="d3">4010.38</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_Australia">
+  <data key="d3">4778.35</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_Singapore">
+  <data key="d3">3605.55</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_Canada">
+  <data key="d3">4964.34</data>
+</edge>
+<edge source="Purpose_Medical" target="Country_Mexico">
+  <data key="d3">3742.06</data>
+</edge>
+<edge source="Purpose_Business" target="Country_Australia">
+  <data key="d3">3450.33</data>
+</edge>
+<edge source="Purpose_Business" target="Country_Thailand">
+  <data key="d3">1412.93</data>
+</edge>
+<edge source="Purpose_Business" target="Country_Canada">
+  <data key="d3">4894.2</data>
+</edge>
+<edge source="Purpose_Business" target="Country_China">
+  <data key="d3">4125.24</data>
+</edge>
+<edge source="Purpose_Business" target="Country_Spain">
+  <data key="d3">3654.55</data>
+</edge>
+<edge source="Purpose_Business" target="Country_South Africa">
+  <data key="d3">3628.34</data>
+</edge>
+<edge source="Purpose_Business" target="Country_Singapore">
+  <data key="d3">4240.61</data>
+</edge>
+<edge source="Purpose_Business" target="Country_Mexico">
+  <data key="d3">4010.22</data>
+</edge>
+</graph></graphml>

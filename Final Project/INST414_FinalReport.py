@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+import networkx as nx
 
 tourismData = "Tourism_Hospitality_Industry_Analysis.csv"
 
@@ -101,6 +102,7 @@ categorical_cols = df.select_dtypes(include=['object', 'category']).columns.toli
 print(f"\n{len(numerical_cols)} Numerical columns to scale: {numerical_cols}")
 print(f"{len(categorical_cols)} Categorical columns to encode: {categorical_cols}")
 
+
 # changing categorical columns to boolean for better analysis
 df_encoded = pd.get_dummies(df, columns=categorical_cols, drop_first=True)
 
@@ -109,9 +111,9 @@ df_encoded = pd.get_dummies(df, columns=categorical_cols, drop_first=True)
 
 std_scaler  = StandardScaler()
 
-df_encoded = std_scaler.fit_transform(df_encoded[numerical_cols])
+X_scaled = std_scaler.fit_transform(df_encoded)
 
-X = df_encoded
+X = X_scaled
 
 # applying elbow method to find # of K clusters
 inertia = []
@@ -165,3 +167,30 @@ print(df.groupby('Cluster')[['Number_of_Tourists', 'Average_Length_of_Stay',
 # 2. See which Travel Purpose or Destination is dominant in each cluster
 print("\n--- Travel Purpose Distribution per Cluster ---")
 print(pd.crosstab(df['Cluster'], df['Purpose_of_Visit']))
+
+# utilizing Gephi to visualize the clusters
+g=nx.Graph()
+
+for n, row in df.iterrows():
+    source_id = f"Country_{row['Country']}"
+    target_id = f"Purpose_{row['Purpose_of_Visit']}"
+    
+    g.add_node(source_id, label = row["Country"], 
+               cluster=str(row["Cluster"]), 
+               node_type="Country")
+    
+    g.add_node(target_id, label = row["Purpose_of_Visit"], 
+               cluster="Target Node", 
+               node_type="Purpose")
+    
+    # 3. Add the Edge (The Trip)
+    g.add_edge(source_id, 
+               target_id, 
+               weight=row["Tourist_Spending_USD"])
+
+print(f"Nodes: {len(g.nodes)}")
+print(f"Edges: {len(g.edges)}")
+
+# exporting to Gephi
+nx.write_graphml(g, "hp.graphml")
+print("GraphML exported to: hp.graphml")
