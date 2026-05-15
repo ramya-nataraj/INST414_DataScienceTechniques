@@ -40,7 +40,7 @@ plt.xlabel("Number of Hotels")
 plt.ylabel("Average Hotel Occupancy Rate (%)")
 plt.title("Hotel Occupancy vs Number of Hotels by Country")
 
-# ChatGPT Assistance: add country labels
+#adding country labels to the scatter plot
 for i, country in enumerate(country_hotels.index):
     plt.text(country_hotels["Number_of_Hotels"][i], 
              country_hotels["Hotel_Occupancy_Rate"][i], 
@@ -110,7 +110,7 @@ df_encoded = pd.get_dummies(df, columns=categorical_cols, drop_first=True)
 
 std_scaler  = StandardScaler()
 
-X_scaled = std_scaler.fit_transform(df_encoded)
+X_scaled = std_scaler.fit_transform(df_encoded[numerical_cols])
 
 X = X_scaled
 
